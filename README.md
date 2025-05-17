@@ -26,7 +26,7 @@ This project analyzes sales, profit, and regional performance using the popular 
 
 ---
 
-## 💡 Skills Applied
+## Skills Applied
 
 - Exploratory Data Analysis (EDA)
 - Aggregation and filtering with SQL
